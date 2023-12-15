@@ -20,8 +20,9 @@ To get started with Project Name, follow these steps:
    npm start
     ```
 ## Reference:
-[Microsoft viseme sdk][https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-speech-synthesis-viseme?tabs=visemeid&pivots=programming-language-javascript]
-[talking head] [https://github.com/jetfontanilla/canvas-talking-head-model/tree/main]
+    -[Microsoft viseme sdk](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-speech-synthesis-viseme?tabs=visemeid&pivots=programming-language-javascript) <br />
 
-[Viseme Generation] [https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-speech-synthesis-viseme?tabs=visemeid&pivots=programming-language-javascript#get-viseme-events-with-the-speech-sdk]
+    -[talking head] (https://github.com/jetfontanilla/canvas-talking-head-model/tree/main) <br />
+
+    -[Viseme Generation] (https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-speech-synthesis-viseme?tabs=visemeid&pivots=programming-language-javascript#get-viseme-events-with-the-speech-sdk)
 
