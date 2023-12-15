@@ -22,7 +22,7 @@ To get started with Project Name, follow these steps:
 ## Reference:
 [Microsoft viseme sdk](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-speech-synthesis-viseme?tabs=visemeid&pivots=programming-language-javascript) <br />
 
-[talking head] (https://github.com/jetfontanilla/canvas-talking-head-model/tree/main) <br />
+[talking head](https://github.com/jetfontanilla/canvas-talking-head-model/tree/main) <br />
 
-[Viseme Generation] (https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-speech-synthesis-viseme?tabs=visemeid&pivots=programming-language-javascript#get-viseme-events-with-the-speech-sdk)
+[Viseme Generation](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-speech-synthesis-viseme?tabs=visemeid&pivots=programming-language-javascript#get-viseme-events-with-the-speech-sdk)
 
